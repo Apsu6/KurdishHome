@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75b0bdc2-6e69-4ee6-8e3f-e070136be7f7" name="Default Changelist" comment="">
+    <list default="true" id="75b0bdc2-6e69-4ee6-8e3f-e070136be7f7" name="Default Changelist" comment="z">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -81,8 +81,17 @@
       <workItem from="1623235935719" duration="1827000" />
       <workItem from="1623238585009" duration="154000" />
       <workItem from="1623238835555" duration="1573000" />
-      <workItem from="1623241569338" duration="292000" />
+      <workItem from="1623241569338" duration="3215000" />
+      <workItem from="1623786244894" duration="1638000" />
     </task>
+    <task id="LOCAL-00001" summary="z">
+      <created>1623241905146</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623241905162</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,5 +108,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="z" />
+    <option name="LAST_COMMIT_MESSAGE" value="z" />
   </component>
 </project>
